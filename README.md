@@ -5,7 +5,7 @@ Este aplicativo permite acompanhar o preço das criptomoedas mais importantes, s
 
 ## DOWNLOAD FILE
 
-[Software - win32x](https://github.com/FelipeLafin/Software_Cripto_Market/blob/ae2be17695e440f9210941d10fb12b0d4dc16f01/Software_cripto.zip)
+[Software - win32x](Software_cripto.zip)
 ---
 
 ## 🚀 Instalação Rápida (Windows)
