@@ -3,9 +3,10 @@
 Este aplicativo permite acompanhar o preço das criptomoedas mais importantes, simular o valor que seria recebido/pago baseado no valor em tempo real da criptomoeda selecionada e redirecionar o usuário para a aba de compra/venda no site oficial.
 ---
 
-## DOWNLOAD FILE
+## DOWNLOAD THE SOFTWARE
 
-[Software - win32x](PK)
+📦 [Software - win32](https://github.com/FelipeLafin/Software_Cripto_Market/releases/download/v1.0/Software_cripto.zip)
+
 ---
 
 ## 🚀 Instalação Rápida (Windows)
